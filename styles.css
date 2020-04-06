@@ -1,0 +1,96 @@
+
+body{
+    background-image:url("double-bubble-outline.png");
+  
+}
+h2{
+    margin-bottom:0px;
+    width:50%;
+  
+
+}
+
+hr.divider{
+    height:2px;
+    border-color:darkblue;
+    background-color:black;
+    padding-bottom:0px;
+    padding-top:0px;
+    margin:0px;
+    width:50%;
+}
+
+li{
+    background-color: white;
+   /*<!--width: 50% this applies to my navbar and I don't want it to.*/
+}
+
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    color:blue;
+}
+ul.navbar {
+    list-style-type: none;
+    width:200px;
+    background-color:#f1f1f1;
+    margin:0;
+    padding:0;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+ul.basiclist{
+    width:50%; 
+}
+ul.navbar li.inactive{
+    display: block;
+    color: lightgray;
+    background-color: #06290E;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+ul.navbar a:link{
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+ul.navbar a:visited{
+    color:#000;
+}
+ul.navbar a:hover{
+    color: white;
+    background-color:#555;
+}
+
+p{
+    background-color:white;
+    width:50%;
+    
+    
+}
+h1 {
+    font-family: titillium_websemibold;
+    background-color:white;
+    width:50%
+    
+}
+h2 {
+    
+    font-family: titillium_websemibold;
+    background-color:white;
+    width:50%
+}
+.Jacob{
+    
+    margin-top:5px;
+    border-style:solid;
+    border-color:darkgray;
+    border-width:1px;
+    
+}
